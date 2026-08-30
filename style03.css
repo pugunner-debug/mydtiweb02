@@ -1,0 +1,15 @@
+ /* selector { property: value;; property: value;} */
+        h1 {
+            color: rgb(192, 195, 13);
+            text-align: center;
+        }
+
+        #wow {
+            color: #d79914;
+            text-align: center;
+        }
+
+        #woo {
+            color: rgb(221, 11, 197);
+            text-align: center;
+        }
